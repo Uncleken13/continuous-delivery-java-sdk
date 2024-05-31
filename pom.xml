@@ -49,7 +49,7 @@
         <powermock-version>2.0.9</powermock-version>
         <slf4j-version>2.0.6</slf4j-version>
 
-        <maven-enforcer-version>3.1.0</maven-enforcer-version>
+        <maven-enforcer-version>3.5.0</maven-enforcer-version>
         <min-jdk-version>11</min-jdk-version>
         <min-maven-version>3.5.0</min-maven-version>
 
